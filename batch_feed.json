@@ -1,0 +1,202 @@
+[
+  {
+    "trade_id": "T_201",
+    "counterparty_id": "CP_01",
+    "book_id": "RATES_1",
+    "asset_class": "RATES",
+    "notional_usd": 12000000.0,
+    "mtm_value": 450000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_202",
+    "counterparty_id": "CP_01",
+    "book_id": "RATES_2",
+    "asset_class": "RATES",
+    "notional_usd": 5000000.0,
+    "mtm_value": 120000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_203",
+    "counterparty_id": "CP_02",
+    "book_id": "FX_SPOT",
+    "asset_class": "FX",
+    "notional_usd": 3500000.0,
+    "mtm_value": -85000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_204",
+    "counterparty_id": "CP_02",
+    "book_id": "FX_FWD",
+    "asset_class": "FX",
+    "notional_usd": 4100000.0,
+    "mtm_value": 310000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_205",
+    "counterparty_id": "CP_03",
+    "book_id": "CR_CDS",
+    "asset_class": "CREDIT",
+    "notional_usd": 8000000.0,
+    "mtm_value": 1150000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_206",
+    "counterparty_id": "CP_01",
+    "book_id": "EQ_DESK",
+    "asset_class": "EQUITIES",
+    "notional_usd": 2500000.0,
+    "mtm_value": 60000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_207",
+    "counterparty_id": "CP_02",
+    "book_id": "FX_FWD",
+    "asset_class": "FX",
+    "notional_usd": 1500000.0,
+    "mtm_value": 45000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_208",
+    "counterparty_id": "CP_03",
+    "book_id": "CR_CDS",
+    "asset_class": "CREDIT",
+    "notional_usd": 3200000.0,
+    "mtm_value": 290000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_209",
+    "counterparty_id": "CP_01",
+    "book_id": "RATES_1",
+    "asset_class": "RATES",
+    "notional_usd": 9000000.0,
+    "mtm_value": -150000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_210",
+    "counterparty_id": "CP_02",
+    "book_id": "FX_SPOT",
+    "asset_class": "FX",
+    "notional_usd": 6700000.0,
+    "mtm_value": 820000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_211",
+    "counterparty_id": "CP_03",
+    "book_id": "EQ_DESK",
+    "asset_class": "EQUITIES",
+    "notional_usd": 1800000.0,
+    "mtm_value": -30000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_212",
+    "counterparty_id": "CP_01",
+    "book_id": "RATES_2",
+    "asset_class": "RATES",
+    "notional_usd": 11000000.0,
+    "mtm_value": 410000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_213",
+    "counterparty_id": "CP_02",
+    "book_id": "FX_FWD",
+    "asset_class": "FX",
+    "notional_usd": 2200000.0,
+    "mtm_value": 75000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_214",
+    "counterparty_id": "CP_03",
+    "book_id": "CR_CDS",
+    "asset_class": "CREDIT",
+    "notional_usd": 4000000.0,
+    "mtm_value": 310000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_215",
+    "counterparty_id": null,
+    "book_id": "RATES_1",
+    "asset_class": "RATES",
+    "notional_usd": 1000000.0,
+    "mtm_value": 15000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_216",
+    "counterparty_id": "",
+    "book_id": "FX_SPOT",
+    "asset_class": "FX",
+    "notional_usd": 2000000.0,
+    "mtm_value": 25000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_217",
+    "counterparty_id": "CP_01",
+    "book_id": "EQ_DESK",
+    "asset_class": "EQUITIES",
+    "notional_usd": -5000000.0,
+    "mtm_value": -10000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_218",
+    "counterparty_id": "CP_02",
+    "book_id": "CR_CDS",
+    "asset_class": "CREDIT",
+    "notional_usd": "10.5M",
+    "mtm_value": 50000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_219",
+    "counterparty_id": "CP_03",
+    "book_id": "RATES_1",
+    "asset_class": "RATES",
+    "notional_usd": 3000000.0,
+    "mtm_value": 80000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  },
+  {
+    "trade_id": "T_219",
+    "counterparty_id": "CP_03",
+    "book_id": "RATES_1",
+    "asset_class": "RATES",
+    "notional_usd": 3000000.0,
+    "mtm_value": 80000.0,
+    "snapshot_timestamp": "2026-10-06 16:00:00",
+    "version": 1
+  }
+]
